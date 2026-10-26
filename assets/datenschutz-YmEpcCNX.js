@@ -1,0 +1,1 @@
+import{Dt as e,Tt as t,kt as n,n as r,wt as i}from"./layout-bhhlSLLQ.js";import{t as a}from"./legal-CEwrtBJA.js";var o=n(e(),1),s=t(),c=i();(0,s.createRoot)(document.getElementById(`root`)).render((0,c.jsx)(o.StrictMode,{children:(0,c.jsx)(r,{page:`legal`,title:()=>`Datenschutz | ScaleUp Analytics`,children:(0,c.jsx)(a,{})})}));

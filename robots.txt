@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scaleup-analytics.github.io/sitemap.xml

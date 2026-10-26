@@ -1,0 +1,12 @@
+ScaleUp Analytics website - third-party software
+
+This website includes code from the following open-source projects.
+Full licence texts are in the /licenses folder.
+
+- shadcn-landing-page by Leopoldo Miranda (MIT) - used as the structural reference and base UI primitives
+- Kokonut UI by kokonutUI / Dorian Baffier (MIT) - Gradient Button, Typewriter, Metric Card, Background Paths
+- Bklit UI by uixmat (MIT) - charts (area, bar, funnel, gauge)
+- React Bits by David Haz (MIT + Commons Clause) - DotGrid, CountUp, SpotlightCard
+- Motion (MIT) - animations
+- shadcn/ui, Radix UI, Lucide, visx, d3 (MIT/ISC)
+- Barlow and Barlow Semi Condensed fonts by Jeremy Tribby (SIL Open Font License 1.1)
